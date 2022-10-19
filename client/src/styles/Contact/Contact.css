@@ -1,0 +1,57 @@
+.contact-wrapper{
+    width: 50rem;
+    margin: 2rem auto;
+}
+
+.contact-form input, textarea{
+    display: block;
+    width: 100%;
+    padding: 0.6rem 0;
+    margin-bottom: 1.3rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    text-align: center;
+}
+
+.contact-wrapper h1{
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-weight: 600;
+}
+
+.form-btn{
+    margin-top: 1.3rem;
+}
+
+.form-btn button{
+    width: 100%;
+    padding: 0.6rem;
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 1.3rem;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+
+.contact-wrapper p{
+    text-align: center;
+    font-weight: 600;
+    margin: 2rem 0 1.4rem 0;
+}
+
+.social-icons{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.s-icon{
+    margin: 0 1rem;
+    font-size: 1.6rem;
+}

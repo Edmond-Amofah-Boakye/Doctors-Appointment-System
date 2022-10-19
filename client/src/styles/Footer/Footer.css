@@ -1,0 +1,22 @@
+.footer-wrapper{
+    background-color: rgba(36, 36, 154, 0.935);
+    color: white;
+}
+
+.contact-icons{
+    margin-top: 5rem;
+}
+
+.copy{
+    padding: 2rem 0;
+    text-align: center;
+    margin: 0;
+}
+
+.footer-title{
+    padding: 1.3rem 0;
+}
+
+.contact-num{
+    padding-bottom: 1.3rem;
+}

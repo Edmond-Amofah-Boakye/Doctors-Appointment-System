@@ -1,0 +1,103 @@
+.admi-login-wrp{
+    background-image: url('../../../public/images/henry-ascroft-4RJYV_rkoeM-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 1.5rem 1rem 1rem 0;
+}
+
+.admin-row{
+    background-color: #ffffff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    width: 70rem;
+    position: relative;
+    margin: 2rem auto 1rem auto !important;
+    padding: 2rem;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.admin-log-img img{
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.admin-log-form h4{
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+    color: #5984D2;
+    font-size: 2.15rem;
+}
+
+.admin-log-form form input[type="email"]{
+    width: 100%;
+    display: block;
+    margin-bottom: 1rem;
+    padding: 0.6rem;
+}
+
+.admin-log-form form input[type="password"]{
+    width: 100%;
+    display: block;
+    margin-bottom: 1rem;
+    padding: 0.6rem;
+}
+
+.admin-log-form form label{
+    margin-left: 0.65rem;
+}
+
+.submit button{
+    display: block;
+    border: none;
+    background-image: linear-gradient(to right, #5984D2 0%, #495aff 100%);
+    color: white;
+    font-size: 1.2rem;
+    padding: 0.5rem 1.8rem;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.pass{
+    text-decoration: none;
+    color: rgb(69, 157, 69);
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.doct-patient{
+    display: flex;
+}
+
+.doctor{
+    margin-right: 3rem;
+}
+
+.login-as{
+    font-size: 0.8rem;
+    font-weight: bolder;
+}
+
+.admin-log{
+    text-decoration: none;
+    color: red;
+    margin-top: 1.2rem;
+    font-weight: bold;
+    display: block;
+}
+
+.rmb-sign-forgot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2.5rem;
+}

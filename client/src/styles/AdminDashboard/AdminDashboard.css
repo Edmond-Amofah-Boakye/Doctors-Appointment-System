@@ -1,0 +1,151 @@
+
+.overview-head{
+    margin: 1.2rem 0 2rem 0;
+    color: rgba(25, 200, 25, 0.864);
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.overview-content{
+    text-align: center;
+    padding: 2rem;
+    color: rgba(249, 248, 248, 0.97);
+    height: 15rem;
+    margin-bottom: 4rem;
+}
+
+.overview-content-1{
+    background-color: rgb(27, 146, 220);
+    border-left: 7px solid red;
+}
+.overview-content-2{
+    background-color: rgb(232, 47, 15);
+    border-left: 7px solid rgba(25, 200, 25, 0.864);
+}
+.overview-content-3{
+    background-color: rgba(25, 200, 25, 0.864);
+    border-left: 7px solid rgb(27, 146, 220);
+}
+.overview-content h4{
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.overview-content h6{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.overview-icon{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.overview-icon-1{
+    font-size: 2.5rem;
+    margin-bottom: 1.3rem;
+}
+
+.admin-prof{
+    background-color: rgba(254, 254, 254, 0.936);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 1px 1px 0px;
+    padding: 0.7rem 1rem;
+    margin-bottom: 4rem;
+}
+
+.prof{
+    text-align: center;
+}
+.prof img{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    object-fit: cover;
+}
+
+.prof p{
+    font-size: 0.7rem;
+    margin-top: 0.6rem;
+    margin-bottom: 0px;
+    color: rgb(27, 146, 220);
+}
+
+.welcome-admin{
+    margin-bottom: 3rem;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.welcome-admin span{
+    color: rgb(232, 47, 15);
+}
+.log-admin{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.logout{
+    display: flex;
+    align-items: center;
+}
+
+.logout span{
+    margin-right: 0.6rem;
+    color: red;
+    font-weight: 600;
+}
+
+
+/* Sisebar */
+.side-icon{
+    margin: 1.2rem 0 2rem 0;
+    font-size: 1.7rem;
+    cursor: pointer;
+}
+
+/* .offcanvas{
+    top: 3.5rem !important;
+} */
+
+.admin{
+   font-weight: bold !important;
+   color: rgba(25, 200, 25, 0.864);
+}
+.dashboard-list li{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin-top: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.dashboard-list span{
+    font-size: 1.3rem;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+.list-icon{
+    text-decoration: none;
+    color: rgba(245, 243, 243, 0.94);
+}
+
+.offcanvas-body{
+    background-color: rgba(14, 13, 13, 0.839);
+    color: white;
+}
+
+.list-icon:hover{
+    color: rgb(232, 47, 15);
+}
+
+
+
+
+

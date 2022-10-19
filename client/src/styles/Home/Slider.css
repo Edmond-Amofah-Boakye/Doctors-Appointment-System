@@ -1,0 +1,43 @@
+
+.c-caption{
+    top: 25% !important;
+    text-align: center !important;
+ }
+ .c-caption h3{
+     font-size: 4rem !important;
+ }
+ 
+ .ct::before{
+     content: "";
+     background-color: rgba(20, 20, 20, 0.493);
+     display: block;
+     position: absolute;
+     top: 0;
+     right:  0;
+     left: 0;
+     bottom: 0;
+ }
+
+ .ct img{
+     height: 600px;
+     object-fit: cover;
+ }
+ .c-msg{
+     margin-top: 1.4rem;
+ }
+
+ .c-msg button{
+     margin: 0 1rem;
+     border: none;
+     padding: 0.6rem 1.2rem;
+ }
+
+ .read{
+     background-color: rgb(0, 72, 255);
+     color: rgba(245, 243, 243, 0.891);
+ }
+
+ .book{
+    background-color: white;
+    color: black;
+ }

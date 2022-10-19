@@ -1,0 +1,110 @@
+.admin-record-head{
+    background-color: rgb(27, 146, 220);
+    padding: 1.2rem 0.8rem;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+
+/* Add Doctor Styles */
+
+.icon-body-style{
+    background-color: rgb(27, 146, 220);
+    padding: 8px 1rem;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    color: white;
+    cursor: pointer;
+}
+
+.iconStyle{
+    color: white;
+    font-size: 0.7rem;
+    cursor: pointer;
+    margin-left: 0.7rem;
+}
+
+.add-doc{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.password-cpassword{
+    display: flex;
+    justify-content: space-between;
+}
+
+.d-password, .d-c-password{
+    width: 100%;
+}
+
+.d-address, .d-gender{
+    width: 100%;
+}
+
+.d-c-password, .dob, .d-gender{
+    margin-left: 1rem;
+}
+
+.d-gender select{
+    padding: 0.4rem;
+}
+
+label{
+    font-weight: 600 !important;
+    color: blue;
+}
+
+.register{
+    border: none;
+    color: white;
+    font-size: 1.1rem;
+    background-image: linear-gradient(to right, #5984D2 0%, #495aff 100%);;
+    padding: 0.6rem 1.3rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.modal-content{
+    padding: 20px 40px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Admin-Patient Styles */
+
+.admin-patient-head{
+    background-color: rgb(27, 146, 220);
+    padding: 1.2rem 0.8rem;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+
+/* Admin-Appointment Styles */
+.admin-appoint-head{
+    background-color: rgb(27, 146, 220);
+    padding: 1.2rem 0.8rem;
+    color: white;
+    margin-bottom: 2rem;
+}
